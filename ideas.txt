@@ -1,0 +1,10 @@
+Simple Calculator – Perform basic arithmetic operations.
+Number Guessing Game – User guesses a randomly generated number.
+Student Management System – Store and retrieve student records.
+Bank Account System – Simulate deposits, withdrawals, and balance inquiries.
+To-Do List – Add, delete, and mark tasks as complete.
+Library Management System – Handle book records, borrowers, and due dates.
+Tic-Tac-Toe Game – A simple 2-player console-based game.
+Contact Book – Save, update, and delete contact details.
+Unit Converter – Convert between different measurement units (e.g., temperature, distance).
+Quiz Application – Create a basic multiple-choice quiz.
